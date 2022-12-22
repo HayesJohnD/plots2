@@ -619,7 +619,7 @@ GEM
       teaspoon (>= 1.0.0)
     terrapin (0.6.0)
       climate_control (>= 0.0.3, < 1.0)
-    terser (1.1.12)
+    terser (1.1.13)
       execjs (>= 0.3.0, < 3)
     test-unit (3.5.3)
       power_assert
@@ -781,7 +781,7 @@ DEPENDENCIES
   skylight
   sqlite3 (~> 1.5.3)
   teaspoon-mocha
-  terser (~> 1.1.12)
+  terser (~> 1.1.13)
   test-unit
   timecop
   turbolinks (~> 5)
